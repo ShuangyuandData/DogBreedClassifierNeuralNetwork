@@ -9,7 +9,7 @@ If supplied an image of a human, the code will identify the resembling dog breed
 
 ### Results:
 ![Image of result](https://github.com/ShuangyuandData/DogBreedClassifierNeuralNetwork/blob/master/sample_dog_output.png)
-![Image of result](https://github.com/ShuangyuandData/SparkprojectSparkify/blob/master/figure1.png)
+![Image of result](https://github.com/ShuangyuandData/DogBreedClassifierNeuralNetwork/blob/master/sample_human_output.png)
 
 ### Reference:
 1. Udacity

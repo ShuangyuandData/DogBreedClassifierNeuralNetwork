@@ -10,8 +10,8 @@
 ![Image of result](https://github.com/ShuangyuandData/DogBreedClassifierNeuralNetwork/blob/master/sample_cnn.png)
 
 ### File:
-Main code file: dog_appv3.ipynb
-All other files are auxillary files
+1. Main code file: dog_appv3.ipynb
+2. All other files are auxillary files
 
 ### Results:
 ![Image of result](https://github.com/ShuangyuandData/DogBreedClassifierNeuralNetwork/blob/master/res1.png)

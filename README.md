@@ -11,10 +11,11 @@
 
 ### File:
 Main code file: dog_appv3.ipynb
+All other files are auxillary files
 
 ### Results:
-![Image of result](https://github.com/ShuangyuandData/DogBreedClassifierNeuralNetwork/blob/master/sample_dog_output.png)
-![Image of result](https://github.com/ShuangyuandData/DogBreedClassifierNeuralNetwork/blob/master/sample_human_output.png)
+![Image of result](https://github.com/ShuangyuandData/DogBreedClassifierNeuralNetwork/blob/master/res1.png)
+![Image of result](https://github.com/ShuangyuandData/DogBreedClassifierNeuralNetwork/blob/master/res2.png)
 
 ### Reference:
 1. Udacity

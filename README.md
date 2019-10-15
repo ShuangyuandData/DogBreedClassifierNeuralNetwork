@@ -5,7 +5,7 @@
 The project identifies an estimate of the canine’s breed given an image of a dog or identifies the resembling dog breed if supplied an image of a human.
 
 ### Libraries:
-scilearn, keras, glob, numpy, matlibplot, PIL
+sklearn, keras, glob, numpy, matlibplot, PIL
 
 ### Details:
 1. Detect human faces with the OpenCV’s implementation of Haar feature-based cascade classifiers and detect dogs using ResNet-50.

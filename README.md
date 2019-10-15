@@ -24,9 +24,8 @@ scilearn, keras, glob, numpy, matlibplot, PIL
 ![Image of result](https://github.com/ShuangyuandData/DogBreedClassifierNeuralNetwork/blob/master/res2.png)
 
 ### Reference:
-1. Udacity
-2. One github project does not have the link now.
+  Udacity
 
-
+### Blog
 Check my blog on Medium:
 https://medium.com/@pangpeigsy/how-to-tell-your-dogs-breed-with-deep-learning-in-three-steps-c5fec4edb9b7

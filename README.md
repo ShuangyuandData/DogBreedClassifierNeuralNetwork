@@ -1,4 +1,6 @@
 # DogBreedClassifierNeuralNetwork
+Check my blog on Medium:
+https://medium.com/@pangpeigsy/how-to-tell-your-dogs-breed-with-deep-learning-in-three-steps-c5fec4edb9b7
 
 ![Image of result](https://github.com/ShuangyuandData/DogBreedClassifierNeuralNetwork/blob/master/Welsh_springer_spaniel_08203.jpg)
 ### Summary: 

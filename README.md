@@ -7,10 +7,10 @@
 3. Apply Convolutional Neural Networks (CNNs) using transfer learning to classify dog breeds.
 4. The final test accuracy reaches over 80%.
 
+![Image of result](https://github.com/ShuangyuandData/DogBreedClassifierNeuralNetwork/blob/master/sample_cnn.png)
+
 ### File:
 Main code file: dog_appv3.ipynb
-
-![Image of result](https://github.com/ShuangyuandData/DogBreedClassifierNeuralNetwork/blob/master/sample_cnn.png)
 
 ### Results:
 ![Image of result](https://github.com/ShuangyuandData/DogBreedClassifierNeuralNetwork/blob/master/sample_dog_output.png)

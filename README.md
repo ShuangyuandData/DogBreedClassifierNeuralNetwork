@@ -2,7 +2,7 @@
 
 ![Image of result](https://github.com/ShuangyuandData/DogBreedClassifierNeuralNetwork/blob/master/Welsh_springer_spaniel_08203.jpg)
 ### Summary: 
-The project identifies an estimate of the canine’s breed given an image of a dog or identify the resembling dog breed if supplied an image of a human.
+The project identifies an estimate of the canine’s breed given an image of a dog or identifies the resembling dog breed if supplied an image of a human.
 
 ### Libraries:
 scilearn, keras, glob, numpy, matlibplot, PIL

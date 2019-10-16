@@ -7,6 +7,9 @@ The project identifies an estimate of the canine’s breed given an image of a d
 ### Libraries:
 sklearn, keras, glob, numpy, matlibplot, PIL
 
+### Motivation:
+I like to explore more in the deep learning and CNN. The dog classifier is also very interesting.
+
 ### Details:
 1. Detect human faces with the OpenCV’s implementation of Haar feature-based cascade classifiers and detect dogs using ResNet-50.
 2. Apply Convolutional Neural Networks (CNNs) using transfer learning to classify dog breeds.

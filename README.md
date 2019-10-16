@@ -21,6 +21,7 @@ I like to explore more in the deep learning and CNN. The dog classifier is also 
 1. Main code file: dog_appv3.ipynb
 2. Figure files: Welsh_springer_spaniel_08203.jpg, res1.png, res2.png
 3. Learning screenshots in Udacity: L1NeuralNetworks, L2DeepNeuralNetworks, L3CNN
+4. Requirement for the project: Rubric.docx
 
 ### Results:
 ![Image of result](https://github.com/ShuangyuandData/DogBreedClassifierNeuralNetwork/blob/master/res1.png)
